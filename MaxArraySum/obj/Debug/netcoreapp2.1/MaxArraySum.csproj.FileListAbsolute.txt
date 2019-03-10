@@ -1,0 +1,11 @@
+D:\PROJECTS\Training\HackerRankPractice\MaxArraySum\bin\Debug\netcoreapp2.1\MaxArraySum.deps.json
+D:\PROJECTS\Training\HackerRankPractice\MaxArraySum\bin\Debug\netcoreapp2.1\MaxArraySum.runtimeconfig.json
+D:\PROJECTS\Training\HackerRankPractice\MaxArraySum\bin\Debug\netcoreapp2.1\MaxArraySum.runtimeconfig.dev.json
+D:\PROJECTS\Training\HackerRankPractice\MaxArraySum\bin\Debug\netcoreapp2.1\MaxArraySum.dll
+D:\PROJECTS\Training\HackerRankPractice\MaxArraySum\bin\Debug\netcoreapp2.1\MaxArraySum.pdb
+D:\PROJECTS\Training\HackerRankPractice\MaxArraySum\obj\Debug\netcoreapp2.1\MaxArraySum.csprojAssemblyReference.cache
+D:\PROJECTS\Training\HackerRankPractice\MaxArraySum\obj\Debug\netcoreapp2.1\MaxArraySum.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Training\HackerRankPractice\MaxArraySum\obj\Debug\netcoreapp2.1\MaxArraySum.AssemblyInfoInputs.cache
+D:\PROJECTS\Training\HackerRankPractice\MaxArraySum\obj\Debug\netcoreapp2.1\MaxArraySum.AssemblyInfo.cs
+D:\PROJECTS\Training\HackerRankPractice\MaxArraySum\obj\Debug\netcoreapp2.1\MaxArraySum.dll
+D:\PROJECTS\Training\HackerRankPractice\MaxArraySum\obj\Debug\netcoreapp2.1\MaxArraySum.pdb

@@ -1,0 +1,11 @@
+D:\PROJECTS\Training\HackerRankPractice\Abbriviation\bin\Debug\netcoreapp2.1\Abbriviation.deps.json
+D:\PROJECTS\Training\HackerRankPractice\Abbriviation\bin\Debug\netcoreapp2.1\Abbriviation.runtimeconfig.json
+D:\PROJECTS\Training\HackerRankPractice\Abbriviation\bin\Debug\netcoreapp2.1\Abbriviation.runtimeconfig.dev.json
+D:\PROJECTS\Training\HackerRankPractice\Abbriviation\bin\Debug\netcoreapp2.1\Abbriviation.dll
+D:\PROJECTS\Training\HackerRankPractice\Abbriviation\bin\Debug\netcoreapp2.1\Abbriviation.pdb
+D:\PROJECTS\Training\HackerRankPractice\Abbriviation\obj\Debug\netcoreapp2.1\Abbriviation.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Training\HackerRankPractice\Abbriviation\obj\Debug\netcoreapp2.1\Abbriviation.AssemblyInfoInputs.cache
+D:\PROJECTS\Training\HackerRankPractice\Abbriviation\obj\Debug\netcoreapp2.1\Abbriviation.AssemblyInfo.cs
+D:\PROJECTS\Training\HackerRankPractice\Abbriviation\obj\Debug\netcoreapp2.1\Abbriviation.dll
+D:\PROJECTS\Training\HackerRankPractice\Abbriviation\obj\Debug\netcoreapp2.1\Abbriviation.pdb
+D:\PROJECTS\Training\HackerRankPractice\Abbriviation\obj\Debug\netcoreapp2.1\Abbriviation.csprojAssemblyReference.cache

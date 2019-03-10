@@ -1,0 +1,11 @@
+D:\PROJECTS\Training\HackerRankPractice\IceCreamparlor\bin\Debug\netcoreapp2.1\IceCreamparlor.deps.json
+D:\PROJECTS\Training\HackerRankPractice\IceCreamparlor\bin\Debug\netcoreapp2.1\IceCreamparlor.runtimeconfig.json
+D:\PROJECTS\Training\HackerRankPractice\IceCreamparlor\bin\Debug\netcoreapp2.1\IceCreamparlor.runtimeconfig.dev.json
+D:\PROJECTS\Training\HackerRankPractice\IceCreamparlor\bin\Debug\netcoreapp2.1\IceCreamparlor.dll
+D:\PROJECTS\Training\HackerRankPractice\IceCreamparlor\bin\Debug\netcoreapp2.1\IceCreamparlor.pdb
+D:\PROJECTS\Training\HackerRankPractice\IceCreamparlor\obj\Debug\netcoreapp2.1\IceCreamparlor.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Training\HackerRankPractice\IceCreamparlor\obj\Debug\netcoreapp2.1\IceCreamparlor.AssemblyInfoInputs.cache
+D:\PROJECTS\Training\HackerRankPractice\IceCreamparlor\obj\Debug\netcoreapp2.1\IceCreamparlor.AssemblyInfo.cs
+D:\PROJECTS\Training\HackerRankPractice\IceCreamparlor\obj\Debug\netcoreapp2.1\IceCreamparlor.dll
+D:\PROJECTS\Training\HackerRankPractice\IceCreamparlor\obj\Debug\netcoreapp2.1\IceCreamparlor.pdb
+D:\PROJECTS\Training\HackerRankPractice\IceCreamparlor\obj\Debug\netcoreapp2.1\IceCreamparlor.csprojAssemblyReference.cache

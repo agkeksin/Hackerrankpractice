@@ -1,0 +1,11 @@
+D:\PROJECTS\Training\HackerRankPractice\Candidates\bin\Debug\netcoreapp2.1\Candidates.deps.json
+D:\PROJECTS\Training\HackerRankPractice\Candidates\bin\Debug\netcoreapp2.1\Candidates.runtimeconfig.json
+D:\PROJECTS\Training\HackerRankPractice\Candidates\bin\Debug\netcoreapp2.1\Candidates.runtimeconfig.dev.json
+D:\PROJECTS\Training\HackerRankPractice\Candidates\bin\Debug\netcoreapp2.1\Candidates.dll
+D:\PROJECTS\Training\HackerRankPractice\Candidates\bin\Debug\netcoreapp2.1\Candidates.pdb
+D:\PROJECTS\Training\HackerRankPractice\Candidates\obj\Debug\netcoreapp2.1\Candidates.csprojAssemblyReference.cache
+D:\PROJECTS\Training\HackerRankPractice\Candidates\obj\Debug\netcoreapp2.1\Candidates.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Training\HackerRankPractice\Candidates\obj\Debug\netcoreapp2.1\Candidates.AssemblyInfoInputs.cache
+D:\PROJECTS\Training\HackerRankPractice\Candidates\obj\Debug\netcoreapp2.1\Candidates.AssemblyInfo.cs
+D:\PROJECTS\Training\HackerRankPractice\Candidates\obj\Debug\netcoreapp2.1\Candidates.dll
+D:\PROJECTS\Training\HackerRankPractice\Candidates\obj\Debug\netcoreapp2.1\Candidates.pdb

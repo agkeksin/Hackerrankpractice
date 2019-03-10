@@ -1,0 +1,11 @@
+D:\PROJECTS\Training\HackerRankPractice\KocSistem\bin\Debug\netcoreapp2.1\KocSistem.deps.json
+D:\PROJECTS\Training\HackerRankPractice\KocSistem\bin\Debug\netcoreapp2.1\KocSistem.runtimeconfig.json
+D:\PROJECTS\Training\HackerRankPractice\KocSistem\bin\Debug\netcoreapp2.1\KocSistem.runtimeconfig.dev.json
+D:\PROJECTS\Training\HackerRankPractice\KocSistem\bin\Debug\netcoreapp2.1\KocSistem.dll
+D:\PROJECTS\Training\HackerRankPractice\KocSistem\bin\Debug\netcoreapp2.1\KocSistem.pdb
+D:\PROJECTS\Training\HackerRankPractice\KocSistem\obj\Debug\netcoreapp2.1\KocSistem.csprojAssemblyReference.cache
+D:\PROJECTS\Training\HackerRankPractice\KocSistem\obj\Debug\netcoreapp2.1\KocSistem.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Training\HackerRankPractice\KocSistem\obj\Debug\netcoreapp2.1\KocSistem.AssemblyInfoInputs.cache
+D:\PROJECTS\Training\HackerRankPractice\KocSistem\obj\Debug\netcoreapp2.1\KocSistem.AssemblyInfo.cs
+D:\PROJECTS\Training\HackerRankPractice\KocSistem\obj\Debug\netcoreapp2.1\KocSistem.dll
+D:\PROJECTS\Training\HackerRankPractice\KocSistem\obj\Debug\netcoreapp2.1\KocSistem.pdb
